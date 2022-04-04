@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrHarpies
-- 👀 I’m interested in at Java coding and other MC stuff
+- 👀 I’m interested in at Java and Swift coding and other MC stuff
 
 
 <!---
